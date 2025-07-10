@@ -1,0 +1,21 @@
+div{
+    align-items: center;
+    color: white;
+    margin-top: 5%;
+    margin-left: 25%;
+    width: 50%;
+    
+}
+h1{
+    font-family:libre ,baskerville;
+    text-transform: uppercase;
+}
+img{
+    border: 5px solid white;
+    width: 50%;
+}
+html{
+    background-color: black;
+    text-align: center;
+    
+}
